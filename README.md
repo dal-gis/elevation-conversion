@@ -44,7 +44,7 @@ Tested with QGIS 3.28.2 on Windows 10
 > You should have received a copy of the GNU General Public License along with
 > this program. If not, see <http://www.gnu.org/licenses/>.
 
-## Additional Disclaimer
+### Additional Disclaimer
 
 > THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 > 
