@@ -24,6 +24,18 @@ And provides an interface to select:
 | `<INPUT_RASTER>` | input raster |
 | `<OUTPUT_RASTER>` | output raster |
 
+### Screenshot
+
+![Example Screenshot](images/example-screenshot.png "Example Screenshot")
+
+### How to use
+
+- Download script file `elevation_conversion.py`
+- Open *Processing Toolbox* panel (see menu *Processing* and then *Toolbox*)
+- Click the dropdown in the panel's toolbar with the Python icon
+- Select *Add Script to Toolbox...*, find script file and add it
+- You then find the tool at the bottom of the tree under *Scripts*, *Elevation Conversion* and then *Convert GNSS ellipsoidal heights to orthometric heights*
+
 ### Platform
 
 Tested with QGIS 3.28.2 on Windows 10
